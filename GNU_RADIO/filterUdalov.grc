@@ -1,6 +1,6 @@
 options:
   parameters:
-    author: Ivan Voronov
+    author: Alex Udalov
     catch_exceptions: 'True'
     category: '[GRC Hier Blocks]'
     cmake_opt: ''

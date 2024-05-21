@@ -6,7 +6,7 @@
 #
 # GNU Radio Python Flow Graph
 # Title: Low Pass Filter Example
-# Author: Ivan Voronov
+# Author: Alex Udalov
 # GNU Radio version: 3.10.7.0
 
 from packaging.version import Version as StrictVersion
